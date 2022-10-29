@@ -15,3 +15,19 @@ Done. Now run:
   npm install
   npm run dev
 ```
+
+# Vue
+
+```
+% npm create vite vue-example
+✔ Select a framework: › Vue
+✔ Select a variant: › TypeScript
+
+Scaffolding project in /Users/abetomo/work/github/vite-example-202211/vue-example...
+
+Done. Now run:
+
+  cd vue-example
+  npm install
+  npm run dev
+```
