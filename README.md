@@ -31,3 +31,7 @@ Done. Now run:
   npm install
   npm run dev
 ```
+
+# Nuxt
+
+https://vite.nuxtjs.org/
